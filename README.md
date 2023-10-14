@@ -1,2 +1,2 @@
-# Dub-QComputing
+# DubQuantumeers
 Quantum Computing Related 
