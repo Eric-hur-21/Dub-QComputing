@@ -1,4 +1,4 @@
-# Qiskit Fall Fest at University of Washington 2024
+# Qiskit Fall Fest 2024
 
 ## Welcome
 Welcome to the Qiskit Fall Fest event at the University of Washington. We're so excited to have you all here. This event is being hosted by the [Husky Quantum Computing Club](https://qiskit.org). If you're interested in learning more about quantum computing and staying engaged with the quantum community on campus, consider joining our RSO!
@@ -8,8 +8,9 @@ The Fall Fest here at the University of Washington is going to be a combination 
 
 --------------------------------
 ## Official Registration
-- Before you register, read the full rules [here (NEED TO WRITE)]().
+- Before you register, read the full rules [here (TBA)]().
 - To officially sign up, register using [this link](https://forms.gle/GDQgB6MrG15SLRmaA)
+
 
 
 ## Hackathon Details
@@ -21,12 +22,24 @@ The Fall Fest here at the University of Washington is going to be a combination 
 --------------------------------
 ## Schedule
 
-We are proud to welcome you to the University of Washington Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, guest speakers, and more for you. Find the schedule below, or [download the PDF here]() (STILL NEED TO FINALIZE)
+We are proud to welcome you to the University of Washington Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, guest speakers, and more for you. Find the schedule below:
+
+
+|Event Name | Date | Time | Room |
+|:---------:|:----:|:----:|:----:|
+|Quantum101|Oct 8th|7:00 PM - 8:20 PM|TBA|
+|Quantum101 part 2|Oct 9th|7:00 PM - 8:20 PM|TBA|
+|Professor Shor Lecture|Oct 10th|TBA|Kane TBA|
+|Qiskit 101|Oct 11th|TBA|TBA|
+|Virtual office hours|Oct 12th|Discord|TBA|
+|Hackathon|Oct 13th|11:00 AM - 4:00 PM|TBA|
+|IBM Speaker|TBA|TBA|TBA|
 
 
 
 
-Make sure to join the [Discord](https://discord.com) where you can connect with fellow attendees and recieve support from mentors! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
+
+Make sure to join the [Discord](https://discord.com) where you can connect with fellow attendees and recieve support from mentors! Feel free to join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
 
 <br><br>
-# [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
+# [Qiskit Events Code of Conduct](https://docs.quantum.ibm.com/open-source/code-of-conduct)
